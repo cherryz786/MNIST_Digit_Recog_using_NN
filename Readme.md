@@ -1,6 +1,6 @@
 # MNIST Digit Prediction using Neural Network
 
-![mnist](https://github.com/ishikawa-yui/MNIST_Digit_Recig_using_NN/assets/71602299/00711406-c749-4bdd-be34-8a5b6f96daea)
+![mnist2](https://github.com/ishikawa-yui/MNIST_Digit_Recig_using_NN/assets/71602299/a992bd19-1675-4c74-918e-2a1327326efd)
 
 
 ## Overview
