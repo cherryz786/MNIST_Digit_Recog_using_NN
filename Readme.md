@@ -48,9 +48,6 @@ The project typically involves the following steps:
 
 8. **Deployment**: Deploying the model in applications requiring digit recognition.
 
-## Usage
-
-You can use this project as a reference for building your own digit recognition system or as a learning resource for image classification tasks. The code provided in the project can serve as a starting point for your own experiments.
 
 ## Dependencies
 
