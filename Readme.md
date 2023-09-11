@@ -1,5 +1,8 @@
 # MNIST Digit Prediction using Neural Network
 
+![mnist](https://github.com/ishikawa-yui/MNIST_Digit_Recig_using_NN/assets/71602299/00711406-c749-4bdd-be34-8a5b6f96daea)
+
+
 ## Overview
 
 The MNIST Digit Prediction project is a classic example of image classification using machine learning techniques. It focuses on recognizing and classifying handwritten digits (0-9) from a dataset of grayscale images. This README provides an overview of the project, the dataset, and the libraries used.
