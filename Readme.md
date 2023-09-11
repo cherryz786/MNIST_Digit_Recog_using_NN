@@ -1,4 +1,4 @@
-# MNIST Digit Prediction
+# MNIST Digit Prediction using Neural Network
 
 ## Overview
 
