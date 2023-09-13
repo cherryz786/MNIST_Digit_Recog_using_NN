@@ -2,6 +2,8 @@
 
 ![mnist2](https://github.com/ishikawa-yui/MNIST_Digit_Recig_using_NN/assets/71602299/a992bd19-1675-4c74-918e-2a1327326efd)
 
+**(Using ANN)**
+
 
 ## Overview
 
